@@ -1,0 +1,350 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Hotel Booking functionality",
+        "description": "",
+        "id": "adactin-booking-module;hotel-booking-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 108984000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user initializing browser",
+            "match": {
+              "location": "StepAdactin.user_initializing_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 117200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user launches website",
+            "match": {
+              "location": "StepAdactin.user_launches_website()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 84600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the user id and password",
+            "match": {
+              "location": "StepAdactin.user_enters_the_user_id_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 583400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks the login button",
+            "match": {
+              "location": "StepAdactin.user_clicks_the_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 335700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user chooses the location",
+            "match": {
+              "location": "StepAdactin.user_chooses_the_location()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 240100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user opts for hotel",
+            "match": {
+              "location": "StepAdactin.user_opts_for_hotel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 515100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user selects room type",
+            "match": {
+              "location": "StepAdactin.user_selects_room_type()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 267200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user chooses the check-in and check-out dates",
+            "match": {
+              "location": "StepAdactin.user_chooses_the_check_in_and_check_out_dates()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 216500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user selects the seaech button",
+            "match": {
+              "location": "StepAdactin.user_selects_the_seaech_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 198900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user selects the hotel and clicks on continue",
+            "match": {
+              "location": "StepAdactin.user_selects_the_hotel_and_clicks_on_continue()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 794400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user gives the bank details",
+            "match": {
+              "location": "StepAdactin.user_gives_the_bank_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 281000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user clicks the Book Now Button",
+            "match": {
+              "location": "StepAdactin.user_clicks_the_Book_Now_Button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Adactin Booking Module",
+    "description": "",
+    "id": "adactin-booking-module",
+    "keyword": "Feature",
+    "uri": "adactin.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "facebook-login-module;login-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 397700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user initializes the browser",
+            "match": {
+              "location": "Step.user_initializes_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 690000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user launches the application",
+            "match": {
+              "location": "Step.user_launches_the_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 278600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "Step.user_enters_the_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 356100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on the login button",
+            "match": {
+              "location": "Step.user_clicks_on_the_login_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook Login Module",
+    "description": "",
+    "id": "facebook-login-module",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Registration Functionality",
+        "description": "",
+        "id": "facebook-registration-model;registration-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 937100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "userinitializes the browser",
+            "match": {
+              "location": "StepDefn.userinitializes_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 316100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "userlaunches the application",
+            "match": {
+              "location": "StepDefn.userlaunches_the_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 249700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the firstname and surname",
+            "match": {
+              "location": "StepDefn.user_enters_the_firstname_and_surname()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 95700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters mobile number or email address",
+            "match": {
+              "location": "StepDefn.user_enters_mobile_number_or_email_address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 118100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the new password",
+            "match": {
+              "location": "StepDefn.user_enters_the_new_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 81400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user enters the birthday date",
+            "match": {
+              "location": "StepDefn.user_enters_the_birthday_date()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 272500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user enters the gender details",
+            "match": {
+              "location": "StepDefn.user_enters_the_gender_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 434500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user clicks the signup button",
+            "match": {
+              "location": "StepDefn.user_clicks_the_signup_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook Registration Model",
+    "description": "",
+    "id": "facebook-registration-model",
+    "keyword": "Feature",
+    "uri": "register.feature"
+  }
+]
